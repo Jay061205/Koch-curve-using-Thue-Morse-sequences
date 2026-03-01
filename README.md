@@ -2,7 +2,25 @@
 
 > *Fractals from bits. Feed a number sequence, watch geometry emerge.*
 
+**[Live Demo →](https://mathematisches.netlify.app/)**
+
 A web-based visualizer that generates fractal curves from number sequences using binary parity rules. The project started as a curiosity — can the Koch snowflake be derived purely from bit counting? The answer is yes. And when you apply the same rule to primes, Fibonacci numbers, or binary palindromes, entirely different geometries emerge.
+
+---
+
+## Screenshots
+
+> Replace the images below with your own screenshots. Put them in a `/screenshots` folder in the repo.
+
+| Koch Snowflake (integers) | Prime numbers | Fibonacci |
+|---|---|---|
+| ![Koch Snowflake](assets/screenshots/koch.png) | ![Primes](assets/screenshots/prime.png) | ![Fibonacci](assets/screenshots/fib.png) |
+
+| Even numbers | Odd numbers | Binary palindromes |
+|---|---|---|
+| ![Evens](assets/screenshots/even.png) | ![Odds](assets/screenshots/odd.png) | ![Palindromes](assets/screenshots/palindrome.png) |
+
+> **Tip:** Draw each sequence at limit `4096`, hit Download PNG, rename it and drop it in `/screenshots`.
 
 ---
 
@@ -145,7 +163,7 @@ Inspired by a reel that made me wonder: *what if I built this myself?*
 
 **Jay Rathod**
 
-- Don't mind me I hate LinkedIn
+- Don't mind me, I hate LinkedIn
 - Twitter: [@Jay_Rathod_06](https://x.com/Jay_Rathod_06)
 
 ---
