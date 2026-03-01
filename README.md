@@ -163,7 +163,7 @@ Inspired by a reel that made me wonder: *what if I built this myself?*
 
 **Jay Rathod**
 
-- GitHub: [@Jay061205](https://github.com/Jay061205)
+- Don't mind me, I hate LinkedIn
 - Twitter: [@Jay_Rathod_06](https://x.com/Jay_Rathod_06)
 
 ---
